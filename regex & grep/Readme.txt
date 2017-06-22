@@ -1,3 +1,5 @@
+Purpose of this portion is only to demonstrate how regular expressions are used in Bash scripting. This will not include detail description of grep command.
+
 # An Introduction to Regular Expression in Linux Shell Scripting
 
 # Course Outline
